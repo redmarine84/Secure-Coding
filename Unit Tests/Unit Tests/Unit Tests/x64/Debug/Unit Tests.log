@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\redhe\source\repos\Unit Tests\Unit Tests\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\redhe\source\repos\Unit Tests\Unit Tests\test.cpp(262,23): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\redhe\source\repos\Unit Tests\Unit Tests\test.cpp(310,23): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Unit Tests.vcxproj -> C:\Users\redhe\source\repos\Unit Tests\x64\Debug\Unit Tests.exe
